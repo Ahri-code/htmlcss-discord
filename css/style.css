@@ -132,8 +132,7 @@ h1 {
 }
 
 .second-color {
-    background-color: black;
-    opacity: 3%;
+    background-color: #f6f6f6;
 }
 
 .big {
@@ -170,6 +169,10 @@ h1 {
 
 .big img {
     height: 95%;
+}
+
+.first-small {
+    padding-right: 7.9rem;
 }
 
 
