@@ -132,26 +132,47 @@ h1 {
 }
 
 .second-color {
-    background-color: #d3d3d3;
+    background-color: black;
+    opacity: 3%;
 }
 
 .big {
     height: 400px;
     width: 40%;
-    background-color: #1e90ff;
-    margin-top: 2.5rem;
-    margin-bottom: 2.5rem;
-    border: 3px dashed black;
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+    /* background-color: #1e90ff;
+    border: 3px dashed black; */
 }
 
 .small {
     height: 400px;
     width: 30%;
-    background-color: #ffc0cb;
-    margin-top: 2.5rem;
-    margin-bottom: 2.5rem;
-    border: 3px dashed black;
+    margin-top: 7.5rem;
+    margin-bottom: 5rem;
+    /* background-color: #ffc0cb; */
+    /* border: 3px dashed black; */
 }
+
+.small h2 {
+    line-height: 50px;
+    font-size: 40px;
+}
+
+.small p {
+    padding-top: 1.5rem;
+    font-size: 17px;
+}
+
+.second-small {
+    padding-left: 8rem;
+}
+
+.big img {
+    height: 95%;
+}
+
+
 
 /* The Big One */
 
