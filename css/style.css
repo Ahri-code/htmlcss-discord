@@ -11,6 +11,7 @@
 header {
     /* background-color: #add8e6; */
     background-image: url(../img/jumbo.png);
+    background-size: cover;
 }
 
 .flex-container {
@@ -44,15 +45,14 @@ nav {
     text-align: right;
 }
 
-/* Main */
-/* Top Div */
+/* Bottom Header */
 
-#top-div {
+/* #top-div {
     background-color: #00008b;
-}
+} */
 
 #top-centered {
-    height: 300px;
+    min-height: 300px;
     width: 50%;
     background-color: #ee82ee;
     margin-top: 2.5rem;
@@ -60,6 +60,7 @@ nav {
     border: 3px dashed black;
 }
 
+/* Main */
 /* Big Left & Big Right*/
 
 .first-color {
