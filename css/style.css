@@ -230,7 +230,6 @@ h1 {
 }
 
 #bottom-left {
-    height: 500px;
     width: 20%;
     margin-bottom: 2.5rem;
     /* margin-top: 0.5rem; */
@@ -248,12 +247,12 @@ small {
 }
 
 #bottom-right {
-    height: 500px;
+    height: 350px;
     width: 50%;
 }
 
 .small-bottom {
-    height: 500px;
+    height: 350px;
     width: calc(100% / 4);
     margin-bottom: 2.5rem;
     /* background-color: #20b2aa; */
@@ -270,7 +269,7 @@ small {
 }
 
 .small-bottom {
-    height: 500px;
+    height: 300px;
     width: calc(100% / 4);
     margin-top: 0.5rem;
     margin-bottom: 2.5rem;
